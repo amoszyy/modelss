@@ -1,0 +1,681 @@
+
+
+
+
+.modelf3{
+    background-image: url(blog/model3.jpeg);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    text-align: center;
+  
+  
+}
+.modelf3 p{
+    /* margin-top: 220px;
+    position: absolute;
+    margin-left: 500px; */
+    text-align: center;
+    
+}
+.but3{
+    /* justify-content: center; */
+    padding-top: 260px ! important;
+    
+    
+}
+.but3 button{
+    border-radius: 20px;
+    width: 300px;
+    color: white;
+    
+    
+}
+
+@media screen and (max-width: 600px){
+    .modelf3{
+        background-image: url(blog/model3.jpeg);
+        width: 100%;
+        height: 100vh;
+        background-position: center;
+        background-size: cover;
+        /* text-align: center; */
+        
+      
+        
+       
+        
+        /* background-repeat: no-repeat; */
+        
+    }
+    .modelf3 p{
+        /* margin-top: 150px;
+        position: absolute;
+        margin-left: 100px; */
+        text-align: center;
+    }
+    
+}
+
+.modelf3 h1{
+    /* margin-top: 170px;
+    position: absolute;
+    /* text-align: center; */
+    /* text-align: center; */
+    /* margin-left: 510px; */ 
+    text-align: center;
+    padding-top: 80px ! important;
+}
+@media screen and (max-width: 600px){
+    .modelf3 h1{
+        /* margin-left: 150px;
+        margin-top: 100px; */
+        text-align: center;
+        
+    }
+    .but3{
+        /* margin-top: 470px;
+        position: absolute;
+        margin-left: 20px; */
+        justify-content: center;
+        /* padding-top: 260px; */
+      
+    }
+    .but3 button{
+        border-radius: 20px;
+        width: 250px;
+        color: white;
+        /* padding: 20px; */
+        
+        /* padding-top: 20px; */
+    }
+   
+    
+
+    
+}
+/* .modelf3 input{
+    margin-top: 470px;
+    border-radius: 20px;
+    border: none;
+    background-color: gray;
+} */
+/* 
+@media screen and (max-width: 600px){
+    .modelf3 input{
+        margin-top: 230px;
+        font-size: 0.7em;
+
+    }
+    
+} */
+.modelfy{
+    background-image: url(blog/ModelY.jpg);
+    background-size: 100%;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
+/* .modelfy input{
+    margin-top: 530px;
+    border-radius: 20px;
+    border: none;
+    background-color: gray;
+} */
+.modelfy h1{
+    /* margin-top: 170px;
+    position: absolute;
+    /* text-align: center; */
+    /* text-align: center; */
+    /* margin-left: 530px; */ 
+    text-align: center;
+    padding-top: 80px ! important;
+}
+.modelfy p{
+    /* margin-top: 220px;
+    position: absolute;
+    margin-left: 500px; */
+    text-align: center;
+}
+.buty{
+    /* margin-top: 500px;
+    position: absolute;
+    margin-left: 400px; */
+    justify-content: center;
+    padding-top: 260px ! important;
+}
+.buty button{
+    border-radius: 20px;
+    width: 300px;
+    color: white;
+}
+
+
+@media screen and (max-width: 600px){
+    .modelfy{
+        background-image: url(blog/ModelY.jpg);
+        width: auto;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 100vh;
+        
+        /* margin-top: -235px; */
+    }
+    .modelfy p{
+        /* margin-top: 150px;
+        position: absolute;
+        margin-left: 100px; */
+        text-align: center;
+    }
+    .modelfy h1{
+        /* margin-top: 100px;
+        position: absolute;
+        text-align: center;
+        margin-left: 150px; */
+        text-align: center;
+    }
+    .buty{
+        /* margin-top: 470px;
+        position: absolute;
+        margin-left: 20px;
+       */
+       justify-content: center;
+       padding-top: 290px ! important;
+    }
+    .buty button{
+        border-radius: 20px;
+        width: 250px;
+        color: white;
+        /* padding: 20px; */
+        
+        /* padding-top: 20px; */
+    }
+    
+}
+/* @media screen and (max-width: 600px){
+    .modelfy input{
+        margin-top: 230px;
+        font-size: 0.7em;
+
+    }
+    
+} */
+.modelfs{
+    background-image: url(blog/models.jpg);  
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    /* margin-top: 100px; */
+}
+.modelfs h1{
+    /* margin-top: 170px;
+    position: absolute;
+    /* text-align: center; */
+    /* text-align: center; */
+    /* margin-left: 530px; */ 
+    text-align: center;
+    padding-top: 80px ! important;
+}
+.modelfs p{
+    /* margin-top: 220px;
+    position: absolute;
+    margin-left: 500px; */
+    text-align: center;
+}
+.buts{
+    /* margin-top: 500px;
+    position: absolute;
+    margin-left: 400px; */
+    justify-content: center;
+    padding-top: 260px ! important;
+}
+.buts button{
+    border-radius: 20px;
+    width: 300px;
+    color: white;
+}
+@media screen and (max-width: 600px){
+    .modelfs{
+        background-image: url(blog/models.jpg);
+        width: auto;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 100vh;
+        background-position: center;
+        /* margin-top: -515px; */
+    }
+    .modelfs p{
+        /* margin-top: 150px;
+        position: absolute;
+        margin-left: 100px; */
+        text-align: center;
+    }
+    .modelfs h1{
+        /* margin-top: 100px;
+        position: absolute;
+        text-align: center;
+        margin-left: 150px; */
+        text-align: center;
+    }
+    .buts{
+        justify-content: center;
+        padding-top: 260px ! important;
+        /* margin-top: 470px;
+        position: absolute;
+        margin-left: 20px; */
+      
+    }
+    .buts button{
+        border-radius: 20px;
+        width: 250px;
+        color: white;
+        /* padding: 20px; */
+        
+        /* padding-top: 20px; */
+    }
+    
+}
+/* .modelfs input{
+    margin-top: 530px;
+    border-radius: 20px;
+    border: none;
+    background-color: gray;
+} */
+
+/* @media screen and (max-width: 600px){
+    .modelfs input{
+        margin-top: 230px;
+        font-size: 0.7em;
+
+    }
+    
+} */
+
+
+.modelfx{
+    background-image: url(blog/ModelX.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    background-position: center;
+
+}
+.modelfx h1{
+    /* margin-top: 170px; */
+    /* position: absolute; */
+    /* text-align: center; */
+    /* text-align: center; */
+    /* margin-left: 530px; */
+    text-align: center;
+    padding-top: 100px ! important;
+}
+.modelfx p{
+    /* margin-top: 220px; */
+    /* position: absolute; */
+    /* margin-left: 500px; */
+    text-align: center;
+}
+.butx{
+    /* margin-top: 500px; */
+    /* position: absolute; */
+    /* margin-left: 400px; */
+    justify-content: center;
+    padding-top: 260px ! important;
+}
+.butx button{
+    border-radius: 20px;
+    width: 300px;
+    color: white;
+}
+/* .modelfx input{
+    margin-top: 530px;
+    border-radius: 20px;
+    border: none;
+    background-color: gray;
+} */
+@media screen and (max-width: 600px){
+    .modelfx{
+        background-image: url(blog/ModelX.jpg);
+        width: auto;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 100vh;
+        /* margin-top: -315px; */
+    }
+    .modelfx p{
+        /* margin-top: 150px;
+        position: absolute;
+        margin-left: 100px; */
+        text-align: center;
+    }
+    .modelfx h1{
+        /* margin-top: 100px;
+        position: absolute;
+        text-align: center;
+        margin-left: 150px; */
+        text-align: center;
+    }
+    .butx{
+        /* margin-top: 470px;
+        position: absolute;
+        margin-left: 20px; */
+        justify-content: center;
+      
+    }
+    .butx button{
+        border-radius: 20px;
+        width: 250px;
+        color: white;
+        /* padding: 20px; */
+        
+        /* padding-top: 20px; */
+    }
+    
+}
+/* @media screen and (max-width: 600px){
+    .modelfx input{
+        margin-top: 150px;
+        font-size: 0.7em;
+
+    }
+    
+} */
+.solarp{
+    background-image: url(blog/SolarPanels.jpeg);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    background-position: center;
+
+}
+.solarp h1{
+    /* margin-top: 170px; */
+    /* position: absolute; */
+    /* text-align: center; */
+    /* text-align: center; */
+    /* margin-left: 530px; */
+    text-align: center;
+    padding-top: 90px ! important;
+}
+.solarp p{
+    /* margin-top: 220px; */
+    /* position: absolute; */
+    /* margin-left: 500px; */
+    text-align: center;
+}
+.butp{
+    /* margin-top: 500px; */
+    /* position: absolute; */
+    /* margin-left: 490px; */
+    justify-content: center;
+    padding-top: 250px ! important;
+}
+.butp button{
+    border-radius: 20px;
+    width: 300px;
+    color: white;
+}
+/* .solarp input{
+    margin-top: 530px;
+    border-radius: 20px;
+    border: none;
+    background-color: gray;
+} */
+@media screen and (max-width: 600px){
+    .solarp{
+        background-image: url(blog/SolarPanels.jpeg);
+        width: auto;
+        background-size: cover;
+        /* background-repeat: no-repeat; */
+        height: 100vh;
+        background-position: center;
+        /* margin-top: -390px; */
+    }
+    .solarp p{
+        /* margin-top: 150px; */
+        /* position: absolute; */
+        /* margin-left: 100px; */
+        text-align: center;
+
+    }
+    .solarp h1{
+        /* margin-top: 100px; */
+        /* position: absolute; */
+        text-align: center;
+        /* margin-left: 110px; */
+    }
+    .butp{
+        /* margin-top: 470px; */
+        /* position: absolute; */
+        /* margin-left: 80px; */
+        justify-content: center;
+      
+    }
+    .butp button{
+        border-radius: 20px;
+        width: 250px;
+        color: white;
+        /* padding: 20px; */
+        
+        /* padding-top: 20px; */
+    }
+    
+}
+/* @media screen and (max-width: 600px){
+    .solarp input{
+        margin-top: 150px;
+        font-size: 1em;
+
+    }
+    
+} */
+.solarr{
+    background-image: url(blog/solarroof.jpeg);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    text-align: center;
+
+}
+/* .solarr input{
+    margin-top: 530px;
+    border-radius: 20px;
+    border: none;
+    background-color: gray;
+} */
+.solarr h1{
+    /* margin-top: 170px; */
+    /* position: absolute; */
+    text-align: center;
+    padding-top: 90px ! important;
+    /* text-align: center; */
+    /* margin-left: 530px; */
+}
+.solarr p{
+    /* margin-top: 220px; */
+    /* position: absolute; */
+    /* margin-left: 500px; */
+    text-align: center;
+    padding-top: 20px ! important;
+}
+.butr{
+    justify-content: center;
+    padding-top: 200px ! important;
+    /* margin-top: 500px; */
+    /* position: absolute; */
+    /* margin-left: 490px; */
+}
+.butr button{
+    border-radius: 20px;
+    width: 300px;
+    color: white;
+}
+@media screen and (max-width: 600px){
+    .solarr{
+        background-image: url(blog/solarroof.jpeg);
+        width: auto;
+        background-size: cover;
+        height: 100vh;
+        background-position: center;
+        /* background-repeat: no-repeat; */
+        /* margin-top: -390px; */
+    }
+    .solarr p{
+        /* margin-top: 150px; */
+        /* position: absolute; */
+        /* margin-left: 100px; */
+        text-align: center;
+    }
+    .solarr h1{
+        /* margin-top: 100px; */
+        /* position: absolute; */
+        text-align: center;
+        /* margin-left: 110px; */
+    }
+    .butr{
+        /* margin-top: 470px; */
+        /* position: absolute; */
+        /* margin-left: 87px; */
+        justify-content: center;
+      
+    }
+    .butr button{
+        border-radius: 20px;
+        width: 250px;
+        color: white;
+        /* padding: 20px; */
+        
+        /* padding-top: 20px; */
+    }
+    
+}
+/* @media screen and (max-width: 600px){
+    .solarr input{
+        margin-top: 150px;
+        font-size: 1em;
+
+    }
+    
+} */
+.Accessories{
+    background-image: url(blog/Accessories.jpeg);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    background-position: center;
+
+
+}
+.Accessories h1{
+    margin-top: 70px ! important;
+    /* position: absolute; */
+    /* text-align: center; */
+    text-align: center;
+    /* margin-left: 530px; */
+}
+.Accessories p{
+    /* margin-top: 140px; */
+    /* position: absolute; */
+    text-align: center;
+    padding-top: 20px ! important;
+    /* margin-left: 500px; */
+}
+.buta{
+    margin-top: 500px ! important;
+    /* position: absolute; */
+    /* margin-left: 510px; */
+    justify-content: center;
+}
+.buta button{
+    border-radius: 20px;
+    width: 300px;
+    color: black;
+}
+/* .Accessories input{
+    margin-top: 690px;
+    border-radius: 20px;
+    border: none;
+    background-color: gray;
+} */
+@media screen and (max-width: 600px){
+    .Accessories{
+        background-image: url(blog/Accessories.jpeg);
+        width: auto;
+        background-size: cover;
+        background-position: center;
+        /* background-repeat: no-repeat; */
+        height: 100vh;
+        /* margin-top: -390px; */
+    }
+    .Accessories p{
+        /* margin-top: 150px; */
+        /* position: absolute; */
+        text-align: center;
+        /* align-content: center; */
+        /* margin-left: 100px; */
+    }
+    .Accessories h1{
+        /* margin-top: 100px; */
+        /* position: absolute; */
+        text-align: center;
+        /* margin-left: 110px; */
+    }
+    .buta{
+        /* margin-top: 470px;
+        position: absolute;
+        margin-left: 89px; */
+        justify-content: center;
+      
+    }
+    .buta button{
+        border-radius: 20px;
+        width: 250px;
+        color: black;
+        /* padding: 20px; */
+        
+        /* padding-top: 20px; */
+    }
+    #bnt{
+        /* padding-top: 20px; */
+        margin-top: -50px ! important;
+    }
+    
+    
+}
+@media screen and (max-width: 600px){
+   
+    /* .Accessories input{
+        margin-top: 230px;
+        font-size: 1em;
+
+    } */
+    
+}
+.navsss{
+    margin-top: 50px ! important;
+    font-size: 0.7em;
+    text-align: center;
+    /* display: grid; */
+    
+}
+.navsss a{
+    color: black;
+}
+.navsss nav{
+    display: grid;
+}
+/* .brand-name{
+    margin-left: 10px;
+} */
+
+
